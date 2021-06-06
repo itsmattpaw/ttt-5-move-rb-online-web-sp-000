@@ -16,4 +16,3 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def move(board, converted_input, player_character = "X")
   board[converted_index] = player_character
 end
-
